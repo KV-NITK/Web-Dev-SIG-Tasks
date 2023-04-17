@@ -1,0 +1,40 @@
+
+table{
+
+    height: 100px;
+    position: absolute;
+    left:10%;
+    top: 80px;
+    }
+    td{
+        background-image: linear-gradient(to bottom right, rgba(9, 238, 196, 0.607), rgba(234, 238, 231, 0.848));
+    width: 150px;
+    padding: 15px;
+    margin: 0%;
+    
+    }
+    .tt{
+        background-image: linear-gradient(to bottom right, rgba(187, 205, 201, 0.607), rgba(187, 205, 201, 0.607));
+    
+    
+    
+    }
+    
+    
+    
+    
+    th, td {
+        border-bottom: 1px solid #dddd;
+        margin: 0%;
+        
+      }
+      tr{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+      }
+    
