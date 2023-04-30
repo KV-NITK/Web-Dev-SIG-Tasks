@@ -1,0 +1,47 @@
+.container{
+    border: 5px solid blueviolet;
+    padding: 20px;
+    margin:auto;
+}
+#MA111{
+    background-color: rgb(150, 127, 255);
+    color: white;
+}
+#WO110{
+    background-color: rgb(225, 234, 101);
+    color: white;
+}
+#CY110{
+    background-color: hotpink;
+    color: white;
+}
+#CY111{
+    background-color: rgb(233, 131, 226);
+    color: white;
+}
+#CS100{
+    background-color: rgb(26, 237, 237);
+    color: white;
+}
+#CS101{
+    background-color: rgb(6, 226, 255);
+    color: white;
+}
+#PSC{
+    background-color: rgb(144, 255, 127);
+    color: white;
+}
+#UC100{
+    background-color: rgb(233, 71, 71);
+    color: white;
+}
+#CV110{
+    background-color: rgb(223, 96, 215);
+    color: white;
+}
+.day{
+    background-color: #57b0e8;
+}
+.time{
+    background-color: rgb(176, 232, 148);
+}
