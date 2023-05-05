@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+
+    <div class="Top-Banner">
+        <div class="container">
+<div class="small-bold-text banner-text">Delivering Highly Class Chairs Since 1960</div>
+
+        </div>
+
+    </div>
+    
+    <nav>
+        <div class="container main-nav flex" >
+     <a href="#" class="company-logo">
+<img src="18ae30cc993cc26510fafb3407de0f9d.png " alt=" error 404">
+     </a>
+
+<div class="nav-links">
+<ul class="flex">
+    <li><a href="#" class="hover-links">Products</a></li>
+    <li><a href="#" class="hover-links">Customer</a></li>
+    <li><a href="#" class="hover-links">Pricing</a></li>
+    <li><a href="#" class="hover-links">Resources</a></li>
+    <li><a href="#" class="hover-links secondary-button">Sign in</a></li>
+    <li><a href="#" class="hover-links primary-button">sign up</a></li>
+</ul>
+
+
+
+
+
+
+</div>
+
+
+        </div>
+
+    </nav>
+
+    <header>
+   <div class="container header-section flex">
+      <div class="header-left">
+<h1 style="font-family: 'Courier New', Courier, monospace;">Sit Confidently</h1>
+<p>"Sit in style, comfort, and quality with our chairs."
+    "Elevate your seating experience with our expertly crafted chairs".
+</p>
+
+      </div>
+
+      <div class="header-right">
+<img src="asset 2.jpeg" alt="image loading">
+
+      </div>
+
+</div>
+
+
+    </header>
+
+<br> <br>
+    <section class="companies">
+        <div class="container">
+<div class="header-comapnies cmpn"><p>The worlds best companies rely on us to make better design decisions</p></div>
+<div class="logos flex">
+
+<div class="logo"><img src="download.png" alt=""></div>
+<div class="logo"><img src="images.png" alt=""></div>
+<div class="logo"><img src="download (1).png" alt=""></div>
+<div class="logo"><img src="images (1).png" alt=""></div>
+<div class="logo"><img src="images (2).png" alt=""></div>
+<div class="logo"><img src="durian-chair-logo.png" alt=""></div>
+
+
+</div>
+
+
+        </div>
+    </section>
+
+    <section class="features"></section>
+
+    <section class="big-features">
+
+
+        <div class="container">
+<div class="big-feature flex">
+<img  src="asset 21.png" alt="n o image">
+<h2> " Our design is always unique and hand crafted "</h2>
+
+
+</div>
+
+
+
+
+
+        </div>
+    </section>  
+    
+   
+
+    <footer>
+
+<div class="container flex footer-container">
+
+<a href="#" class="comapny-logo">
+
+<img src="18ae30cc993cc26510fafb3407de0f9d.png " style="width: 200px;" alt=""></a>
+
+
+<div class="nav-links">
+    <ul class="flex">
+        <li><a href="#" class="hover-links">Products</a></li>
+        <li><a href="#" class="hover-links">overview</a></li>
+        <li><a href="#" class="hover-links">Customer</a></li>
+        <li><a href="#" class="hover-links">status</a></li>
+        <li>  <a href="contact.html " style="color: rgb(137, 102, 60);">contact us</a>             </li>
+        
+    </ul>
+    
+    
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+    </footer>
+  
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+    <script src="https://kit.fontawesome.com/ed73e51023.js" crossorigin="anonymous"></script>
+</body>
+</html>
