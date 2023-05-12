@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box ;
+}
+
+
+body{
+font-family: 'Poppins' , sans-serif;
+color: #183b56;
+}
+
+h1{
+    font-size: 3rem;
+
+}
+
+h2{
+    font-size: 2rem;
+
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25rem;
+    color: #577592;
+}
+ul{
+    list-style: none;
+    
+    
+}
+
+.small-bold-text{
+    font-size: 1.8rem;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.Top-Banner{
+background-color: #4fb3d4;
+background-image:url('images.jpg');
+background-size: 49px;
+
+
+}
+
+.container{
+max-width: 1180px;
+margin-inline: auto;
+padding: 20px;
+}
+
+.banner-text{
+    color: rgb(6, 6, 6);
+    padding: 15px 30px;
+    text-align: center;
+   
+}
+
+.flex{
+
+display: flex;
+align-items: center;
+}
+
+.hover-links{
+    color: #0b2436;
+    transition: 0.2s ease-in-out;
+}
+
+.hover-links:hover{
+    color: #0a96a5;
+}
+
+
+.main-nav{
+
+    justify-content: space-between;
+}
+
+
+
+.company-logo img{
+width:200px;
+
+}
+
+
+.nav-links ul{
+justify-content: end;
+gap: 40px;
+
+}
+
+
+.nav-links{
+
+    flex-basis: 730px;
+}
+
+.primary-button{
+background-color: #2e4c8d;
+border-radius: 6px;
+font-weight: 700;
+color: white !important;
+padding: 12px 24px;
+box-shadow: 0 0 2px #327acc;
+transition: 0.2s ease-out;
+
+}
+.primary-button:hover{
+background-color:#577592;
+
+}
+
+
+.secondary-button{
+border: 0.5px  solid rgb(78, 65, 74);
+border-radius: 6px;
+font-weight: 700;
+padding: 12px 24px;
+transition: 0.2s ease-out;
+}
+
+
+.secondary-button:hover{
+
+    border-color: #ac7373;
+    color: rgb(161, 196, 184) !important;
+}
+
+.header-right img{
+width: 400px;
+
+}
+
+.btn2{
+margin-top: 50px;
+
+}
+
+.cmpn p{
+    font-family:"Lucida Console", sans-serif;
+font-size: 20px;
+font-weight: 550;
+text-align: center;
+
+}
+
+.logos{
+justify-content: space-between;
+
+
+}
+.big-feature{
+width: 100px;
+
+}
+.big-feature img{
+width: 400px;
+
+}
+.big-feature
+{
+    gap: 300px;}
+.link-column{
+justify-content:center;
+align-items: flex-start;
+gap: 20px;
+
+}
+
+.foot-container{
+    max-width: 100px;
+    justify-content: center;
+    padding: 300px;
+
+
+
+
+}
